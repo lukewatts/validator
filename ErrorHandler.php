@@ -1,5 +1,10 @@
 <?php
-
+/**
+ * Error Handler class
+ * 
+ * @version 2.0
+ * @since 1.0
+ */
 class ErrorHandler {
 
   protected $errors = array();
